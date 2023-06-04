@@ -1,4 +1,4 @@
-## funcionalidad-twitter
+## funcionalidad based in twitter
 
 ## Description 📑
 add-cancel-follow structure <br>

@@ -1,0 +1,6 @@
+Un componente es una funcion que lo que hace es crear un elemento
+pascal case = Button, epieza por mayuscula
+componentes crean elementos y los elementos son los que renderiza react
+las props deben ser inmutables
+los hooks añaden funcionalidad a los componentes de react
+El estado solo se inicializa una vez

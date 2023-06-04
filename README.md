@@ -4,7 +4,7 @@
 add-cancel-follow structure
 ![gh-pages](https://chrono234.github.io/funcionalidad-twitter/)
 
-![background](https://raw.githubusercontent.com/chrono234/funcionalidad-twitter/master/images/img-sample.png)
+[background](https://raw.githubusercontent.com/chrono234/funcionalidad-twitter/master/images/img-sample.png)
  
  ## ¿Why did I learned? 🙇🏻 
 

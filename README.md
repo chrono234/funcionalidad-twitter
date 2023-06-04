@@ -2,7 +2,7 @@
 
 ## Description 📑
 add-cancel-follow structure
-[gh-pages](https://chrono234.github.io/funcionalidad-twitter/,"_blank")
+[gh-pages](https://chrono234.github.io/funcionalidad-twitter/)
 
 ![background](https://raw.githubusercontent.com/chrono234/funcionalidad-twitter/master/images/img-sample.png)
  

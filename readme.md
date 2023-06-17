@@ -6,7 +6,7 @@ add-cancel-follow structure<br>
 
 ## [Funcionalidad-twitter](https://chrono234.github.io/funcionalidad-twitter/)
 
-![background](https://raw.githubusercontent.com/chrono234/funcionalidad-twitter/master/images/img-sample.png)
+![background](https://raw.githubusercontent.com/chrono234/funcionalidad-twitter/main/images/imagen%20readme.png)
 
 ## ¿Why did I learned? 🙇🏻
 
